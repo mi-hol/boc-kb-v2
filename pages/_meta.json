@@ -1,15 +1,9 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
-  }
+  "index": "Introduction"
+  ,"BOC-KnowledgeBase": "Knowledge Base"
+  ,"03_Maintenance": "Maintenance"
+  ,"05_Engine": "Engine"
+  ,"09_Electrical": "Electrical"
+  ,"10_Diagnostics": "Diagnostics"
+  ,"99_HowToEditSite": "How to Edit this Website"
 }
