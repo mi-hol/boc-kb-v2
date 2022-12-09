@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://discord.com',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/mi-hol/boc-kb-v2',
   footer: {
     text: 'License: CC BY-NC-ND 4.0 {new Date().getFullYear()} © Errol Kowald, Michael Holzer.',
   },
