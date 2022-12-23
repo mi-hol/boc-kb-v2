@@ -1,7 +1,5 @@
 # MDX file - text formatting tags
 
-import { Callout } from 'nextra-theme-docs'
-
 [MDX](https://mdxjs.com/about), is an advanced Markdown format with React component support. 
 With Nextra, all your `.md` and `.mdx` files under the pages directory will be rendered with [MDX](https://mdxjs.com/about).
 For understanding [advanced capabilities of MDX](https://nextjs.org/blog/markdown) the linked blog post is a recommended reading.
@@ -36,7 +34,6 @@ function Profile() {
   return <div>hello {data.name}!</div>
 }
 ```
-````
 
 ```jsx highlight=4,6-8
 import useSWR from 'swr'
@@ -78,7 +75,7 @@ Renders:
 You can use import and use React components inside your Markdown files like this:
 
 ```markdown
-import Callout from 'nextra-theme-docs/callout'
+import { Callout } from 'nextra-theme-docs'
 
 **Markdown With React Components**
 
@@ -91,7 +88,7 @@ import Callout from 'nextra-theme-docs/callout'
 
 Generates:
 
-import Callout from 'nextra-theme-docs/callout'
+import { Callout } from 'nextra-theme-docs'
 
 <div className="p-4 border border-gray-200 dark:border-gray-900 rounded mt-6">
 **Markdown With React Components**
