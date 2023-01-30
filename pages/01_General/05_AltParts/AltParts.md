@@ -7,16 +7,16 @@ Disclaimer: **Use these alternative parts at your own risk!**
 | Main  Component | Part | Source  | Verification  Status |
 | --- | --- | --- | --- |
 | Alternator | Cush Rubbers| Kawasaki 92075-1790 |[forum summary](http://www.engenia.com.au/09_Electrical/08_Alternator/Alternator.html) |
-|     |Stator / Generator |  Denso 101211-1720  todo: fix link! [Stator](http://www.engenia.com.au/09_Electrical/08_Alternator/Alternator.html) |
+|     |Stator / Generator | internals from various Denso generators will work   [forum summary](http://www.engenia.com.au/09_Electrical/08_Alternator/Alternator.html) |
 | [Battery](http://www.engenia.com.au/09_Electrical/04_Battery/Battery.html) |
 | Body | [Mirrors](http://www.engenia.com.au/04_Body/04_Mirrors/Mirrors.html#AltMirrors) |
 | Brake | Caliper Pins | [Brembo & KTM 61013018000](https://duckduckgo.com/?q=%2BBrembo+%2B61013018000) |
-|     | [Hydraulic](http://www.maniacmotors.de/benelli/exclusiv_sonstiges.htm) |
+|     | [Hydraulic](https://maniac-parts.de/en/benelli/zubehoer) |
 |     | [Pads](http://www.engenia.com.au/03_Maintenance/21_BrakePads/BrakePads.html) |
 |     | [Rotors](http://www.engenia.com.au/07_Frame/03_Brakes/Rotors.html) |
-| Chain | Cam chain|[D.I.D. 219FTH(LE)x118](https://duckduckgo.com/?q=DID+%2B219FTHx118)|[Cam chain trouble & statistics](http://www.engenia.com.au/05_Engine/01_Camshaft/04_Tensioner/TensionerStats.html) |
-| Clutch | cable| [Cable repair](http://www.engenia.com.au/05_Engine/08_Clutch/ClutchCableInner.html) | consider conversion to [Hydraulic clutch](http://www.engenia.com.au/05_Engine/08_Clutch/HydraulicConversion.html) |
-|     | [Plates](ClutchPlates.html) |
+| Chain | Cam chain|[D.I.D. 219FTHx118](https://duckduckgo.com/?q=DID+%2B219FTHx118)|[Cam chain trouble & statistics](http://www.engenia.com.au/05_Engine/01_Camshaft/04_Tensioner/TensionerStats.html) |
+| Clutch | cable| [Cable repair](http://www.engenia.com.au/05_Engine/08_Clutch/ClutchCableInner.html) | consider conversion to [Hydraulic clutch](http://www.engenia.com.au/05_Engine/08_Clutch/HydraulicConversion.html) or [Hydraulic clutch conversion kit (Tornado)](https://maniac-parts.de/en/sonstiges/7347-hydraulischer-kupplungs-kit-tornado.html)|
+|     | [Plates](http://engenia.com.au/01_General/05_AltParts/ClutchPlates.html) |
 |     | Thrust Bearing - Single Row Angular Contact Open Ball Bearing 17x35x10mm |[SKF 7003](https://www.skf.com/au/products/super-precision-bearings/angular-contact-ball-bearings/productid-7003%20ACD%2FP4AH)  | 7003 is not a true thrust bearing, but it will do a better job than the standard 6003 | Alternatively, a [SKF 30202](https://www.skf.com/au/products/rolling-bearings/roller-bearings/tapered-roller-bearings/single-row-tapered-roller-bearings/productid-30202) is a tapered roller bearing that would fit, but requires a mod to the adjuster, as it has only a 15 mm ID, 2 mm smaller than the 6003 / 7003 bearings. It would probably last the life of the engine though. |
 | Cooling System | [Radiator Fans](http://www.engenia.com.au/06_Cooling/01_Radiator/RadFans.html) |
 |     | Water Pump Inlet Hose |Ford Fiesta  | [Forum post](http://www.benelliforum.com/forum/tornado-tre/17671-tornado-minor-mods-progress-re-assembly.html#post167819) needs to be trimmed at each end |
@@ -48,4 +48,4 @@ Disclaimer: **Use these alternative parts at your own risk!**
 | Starter Motor | [Denso 128080-8630](https://duckduckgo.com/?q=%2BDenso+%2B128080-8630), also Denso 128000-8630 or Denso 1310000-T0301 or Denso 19243001A |  as fitted to 1996 to 2002 Triumph Trophy, Sprint, Daytona etc. | [Forum link](http://www.benelliforum.com/forum/general-benelli-discussion/12768-tnt-1130-problem.html#post122082) and [Forum link](https://www.benelliforum.com/forum/tnt/29281-tnt899_new-starter.html#post244651) |
 | Valve | Valve Shims | [Shims](http://www.precisionshims.com.au)  Precision Shims Australia \- Ask Chris for 8.0mm flat shims | used by Engenia |
 | Valve | Valve shaft seal|[data sheet: Elring 302.890](https://web.tecalliance.net/elring/en/parts/10/302.890/detail?targetCountry=GB&articleCountry=GB)  [buying: Elring 302.890](https://duckduckgo.com/?q=%2BElring+%2B"302.890")  or CORTECO 49472900 | to be Confirmed!! |
-|Water pump|||| consider replacement with [electric water pump upgrade kit]()
+|Water pump|||| consider replacement with [electric water pump upgrade kit](https://maniac-parts.de/en/sonstiges/8483-elektrischer-wasserpumpen-kit.html)
