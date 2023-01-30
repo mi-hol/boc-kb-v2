@@ -1,51 +1,51 @@
 # Links to Alternative Parts
 
-last Update: 4 Nov 2020
+last Update: 30 Jan 2023
 
 Disclaimer: **Use these alternative parts at your own risk!**
 
-| Main  Component | Part | Source  |  Status   |
+| Main  Component | Part | Source  | Verification  Status |
 | --- | --- | --- | --- |
-| Alternator | [Cush Rubbers](../../09_Electrical/08_Alternator/Alternator.html) |
-|     | [Stator](../../09_Electrical/08_Alternator/Alternator.html) |
-| [Battery](../../09_Electrical/04_Battery/Battery.html) |
-| Body | [Mirrors](../../04_Body/04_Mirrors/Mirrors.html#AltMirrors) |
-| Brake | Caliper Pins: [Brembo & KTM part no: 61013018000](http://www.ebay.co.uk/itm/260716877045) |
+| Alternator | Cush Rubbers| Kawasaki 92075-1790 |[forum summary](http://www.engenia.com.au/09_Electrical/08_Alternator/Alternator.html) |
+|     |Stator / Generator |  Denso 101211-1720  todo: fix link! [Stator](http://www.engenia.com.au/09_Electrical/08_Alternator/Alternator.html) |
+| [Battery](http://www.engenia.com.au/09_Electrical/04_Battery/Battery.html) |
+| Body | [Mirrors](http://www.engenia.com.au/04_Body/04_Mirrors/Mirrors.html#AltMirrors) |
+| Brake | Caliper Pins | [Brembo & KTM 61013018000](https://duckduckgo.com/?q=%2BBrembo+%2B61013018000) |
 |     | [Hydraulic](http://www.maniacmotors.de/benelli/exclusiv_sonstiges.htm) |
-|     | [Pads](../../03_Maintenance/21_BrakePads/BrakePads.html) |
-|     | [Rotors](../../07_Frame/03_Brakes/Rotors.html) |
-| Chain | [Cam](../../05_Engine/01_Camshaft/04_Tensioner/TensionerStats.html) |
-| Clutch | [Cable](../../05_Engine/08_Clutch/ClutchCableInner.html) |
-|     | [Hydraulic](../../05_Engine/08_Clutch/HydraulicConversion.html) |
+|     | [Pads](http://www.engenia.com.au/03_Maintenance/21_BrakePads/BrakePads.html) |
+|     | [Rotors](http://www.engenia.com.au/07_Frame/03_Brakes/Rotors.html) |
+| Chain | Cam chain|[D.I.D. 219FTH(LE)x118](https://duckduckgo.com/?q=DID+%2B219FTHx118)|[Cam chain trouble & statistics](http://www.engenia.com.au/05_Engine/01_Camshaft/04_Tensioner/TensionerStats.html) |
+| Clutch | cable| [Cable repair](http://www.engenia.com.au/05_Engine/08_Clutch/ClutchCableInner.html) | consider conversion to [Hydraulic clutch](http://www.engenia.com.au/05_Engine/08_Clutch/HydraulicConversion.html) |
 |     | [Plates](ClutchPlates.html) |
-|     | Thrust Bearing - [SKF 7003](https://www.skf.com/au/products/super-precision-bearings/angular-contact-ball-bearings/productid-7003%20ACD%2FP4AH) Single Row Angular Contact Open Ball Bearing 17x35x10mm | 7003 is not a true thrust bearing, but it will do a better job than the standard 6003 | Alternatively, a [SKF 30202](https://www.skf.com/au/products/rolling-bearings/roller-bearings/tapered-roller-bearings/single-row-tapered-roller-bearings/productid-30202) is a tapered roller bearing that would fit, but requires a mod to the adjuster, as it has only a 15 mm ID, 2 mm smaller than the 6003 / 7003 bearings. It would probably last the life of the engine though. |
-| Cooling System | [Radiator Fans](../../06_Cooling/01_Radiator/RadFans.html) |
+|     | Thrust Bearing - Single Row Angular Contact Open Ball Bearing 17x35x10mm |[SKF 7003](https://www.skf.com/au/products/super-precision-bearings/angular-contact-ball-bearings/productid-7003%20ACD%2FP4AH)  | 7003 is not a true thrust bearing, but it will do a better job than the standard 6003 | Alternatively, a [SKF 30202](https://www.skf.com/au/products/rolling-bearings/roller-bearings/tapered-roller-bearings/single-row-tapered-roller-bearings/productid-30202) is a tapered roller bearing that would fit, but requires a mod to the adjuster, as it has only a 15 mm ID, 2 mm smaller than the 6003 / 7003 bearings. It would probably last the life of the engine though. |
+| Cooling System | [Radiator Fans](http://www.engenia.com.au/06_Cooling/01_Radiator/RadFans.html) |
 |     | Water Pump Inlet Hose |Ford Fiesta  | [Forum post](http://www.benelliforum.com/forum/tornado-tre/17671-tornado-minor-mods-progress-re-assembly.html#post167819) needs to be trimmed at each end |
-|     | [Thermostat](../../06_Cooling/03_Thermostat/AltThermostat.html) |
-| Engine Management System | [Stepper](../../08_FuelIgnition/01_EMS_Sensors/Stepper.html) |
-|     | Engine Temperature Sensor | [Bosch 0 280 130 026](http://au.bosch-automotive-shop.com/en/products/details/-/productdetails/0280130026/temperature-sensor-%2528coolant%2529-0280130026) The link shows, under "More Info", vehicles that can use that part.  Also: Hella p/n: 696PT 009 107-361; Facet p/n: 797.3128   |ToDO: correct link!  [forum post](http://www.benelliforum.com/forum/benelli-technical/17793-temperatur-sensor-alternative.html#post168702) |
-|     | [Throttle Position Sensor](../../08_FuelIgnition/01_EMS_Sensors/ThrottlePosition.html) |
-|     | [Tip Over Switch](../../08_FuelIgnition/01_EMS_Sensors/TipOverSwitch.html) |
-| Filter | [Fuel](../../08_FuelIgnition/05_FuelFilter/FuelFilter.html) |
-|     | [Oil - Paper](../../03_Maintenance/12_OilAndFilter/RycoFilter.html) |
-| Forks | [Seal](../../07_Frame/04_Suspension/01_Forks/Forks.html) |
+|     | [Thermostat](http://www.engenia.com.au/06_Cooling/03_Thermostat/AltThermostat.html) |
+| Engine Management System | [Stepper](http://www.engenia.com.au/08_FuelIgnition/01_EMS_Sensors/Stepper.html) |
+|     | Engine Temperature Sensor | [Bosch 0 280 130 026](https://www.bosch-motorsport-shop.com.au/temperature-sensor-130-deg-c)  Also: Hella 696PT 009 107-361; Facet 797.3128  | [forum post](http://www.benelliforum.com/forum/benelli-technical/17793-temperatur-sensor-alternative.html#post168702) |
+|     | [Throttle Position Sensor](http://www.engenia.com.au/08_FuelIgnition/01_EMS_Sensors/ThrottlePosition.html) |
+|     | [Tip Over Switch](http://www.engenia.com.au/08_FuelIgnition/01_EMS_Sensors/TipOverSwitch.html) |
+| Filter | [Fuel](http://www.engenia.com.au/08_FuelIgnition/05_FuelFilter/FuelFilter.html) |
+|     | [Oil - Paper](http://www.engenia.com.au/03_Maintenance/12_OilAndFilter/RycoFilter.html) |
+| Forks | [Seal](http://www.engenia.com.au/07_Frame/04_Suspension/01_Forks/Forks.html) |
 | Fuel/Ignition | [Fuel Pump](http://www.aliexpress.com/item/New-Intank-EFI-Fuel-Pump-for-Benelli-Tornado-Naked-Tre-1130-Sport-Evo-2004-2008/1935011577.html?shortkey=E322U3iy&addresstype=600) | This one has the right angle sieve. |
-|     | [Ignition Coils](../../08_FuelIgnition/02_IgnitionAndInjection/AlternativeCoils.html#alternative_coils) |
-|     | [Injectors](../../08_FuelIgnition/02_IgnitionAndInjection/AlternativeInjectors.html) |
+|     | [Ignition Coils](http://www.engenia.com.au/08_FuelIgnition/02_IgnitionAndInjection/AlternativeCoils.html#alternative_coils) |
+|     | [Injectors](http://www.engenia.com.au/08_FuelIgnition/02_IgnitionAndInjection/AlternativeInjectors.html) |
 |     | Fuel Tank Level Sensor | This is a bit of a problem, but I'm working on it.  I've discarded capacitive, inductive, optical and various potentiometers.A float+magnet+switches might work. |
-| Lamps | [HID Headlight](../../09_Electrical/17_FrontLights/HID.html) | [Halogen Headlight](../../03_Maintenance/37_FrontLights/FrontLamps.html) |
-|     | [Front Indicator](../../03_Maintenance/37_FrontLights/FrontLamps.html#front_indicator) |
-|     | [Rear Indicator & Tail](../../03_Maintenance/39_RearLights/RearLamps.html) |
-| Lever | [Brake](../../03_Maintenance/05_Levers/Levers.html) |
-|     | [Clutch](../../03_Maintenance/05_Levers/Levers.html) |
-|     | [Gear](../../03_Maintenance/05_Levers/Levers.html) |
-| Plug | [Cylinder Head Core (Welsh)](../../06_Cooling/CorePlugs.html) |
-| Relay | [Starter](../../09_Electrical/07_StarterMotor/StarterRelay.html) |
-|     | Lights etc - Narva relay p/n. 68070BL | [Forum link:](http://www.benelliforum.com/forum/trek/12314-no-head-light-low-beam-2.html#post117588) (It's a little taller than the OEM) |
-| Speed | [Sensor](http://www.euroswitch.it/ita/prodotti/sensori_di_velocita/sensori_di_velocita) \- Euroswitch SNV06. Not an exact match, but could be adapted. |
-| Sprocket | [Front 1](../../07_Frame/12_FinalDrive/FrontSprocket.html) |
+|Lamps| [Halogen Headlight](http://www.engenia.com.au/03_Maintenance/37_FrontLights/FrontLamps.html) | | For much better light consider [conversion to HID Headlight](http://www.engenia.com.au/09_Electrical/17_FrontLights/HID.html) |
+|     | [Front Indicator](http://www.engenia.com.au/03_Maintenance/37_FrontLights/FrontLamps.html#front_indicator) |
+|     | [Rear Indicator & Tail](http://www.engenia.com.au/03_Maintenance/39_RearLights/RearLamps.html) |
+| Lever | [Brake](http://www.engenia.com.au/03_Maintenance/05_Levers/Levers.html) |
+|     | [Clutch](http://www.engenia.com.au/03_Maintenance/05_Levers/Levers.html) |
+|     | [Gear](http://www.engenia.com.au/03_Maintenance/05_Levers/Levers.html) |
+| Plug | [Cylinder Head Core (Welsh)](http://www.engenia.com.au/06_Cooling/CorePlugs.html) |
+| Relay | [Starter](http://www.engenia.com.au/09_Electrical/07_StarterMotor/StarterRelay.html) |
+|     | Lights etc | [Narva 68070BL](https://www.narva.com.au/products/68070bl/12v-20a-10a-change-over-5-pin-relay-with-resistor--blister-pack-of-1-) | [Forum link:](http://www.benelliforum.com/forum/trek/12314-no-head-light-low-beam-2.html#post117588) (It's a little taller than the OEM) |
+| Speed | Sensor | [Euroswitch SNV06](http://www.euroswitch.it/ita/prodotti/sensori_di_velocita/sensori_di_velocita) | To be confirmed!  Not an exact match, but could be adapted. Seems difficult to purchase in single quantity!|
+| Sprocket | [Front 1](http://www.engenia.com.au/07_Frame/12_FinalDrive/FrontSprocket.html) |
 |     | [Front 2](http://www.chaingangchainsandsprockets.com.au) \- the Chain Gang | not shown on their website, but they do have it. |
 |     | [Rear](http://www.chaingangchainsandsprockets.com.au) \- the Chain Gang | not shown on their website, but they do have it. |
-| Starter Motor | Denso 19243001A, superseded by Denso 128080-8630, also Denso 128000-8630 or Denso 1310000-T0301 |  as fitted to 1996 to 02 Triumph Trophy, Sprint, Daytona etc. | [Forum link](http://www.benelliforum.com/forum/general-benelli-discussion/12768-tnt-1130-problem.html#post122082) and [Forum link](https://www.benelliforum.com/forum/tnt/29281-tnt899_new-starter.html#post244651) |
-| Valve | [Shims](http://www.precisionshims.com.au) \- Precision Shims Australia | Ask Chris for 8.0mm flat shims |
-| Valve shaft seal|  [Elring 302.890](https://web.tecalliance.net/elring/en/parts/10/302.890/detail?targetCountry=GB&articleCountry=GB) | to be Confirmed!! |
+| Starter Motor | [Denso 128080-8630](https://duckduckgo.com/?q=%2BDenso+%2B128080-8630), also Denso 128000-8630 or Denso 1310000-T0301 or Denso 19243001A |  as fitted to 1996 to 2002 Triumph Trophy, Sprint, Daytona etc. | [Forum link](http://www.benelliforum.com/forum/general-benelli-discussion/12768-tnt-1130-problem.html#post122082) and [Forum link](https://www.benelliforum.com/forum/tnt/29281-tnt899_new-starter.html#post244651) |
+| Valve | Valve Shims | [Shims](http://www.precisionshims.com.au)  Precision Shims Australia \- Ask Chris for 8.0mm flat shims | used by Engenia |
+| Valve | Valve shaft seal|[data sheet: Elring 302.890](https://web.tecalliance.net/elring/en/parts/10/302.890/detail?targetCountry=GB&articleCountry=GB)  [buying: Elring 302.890](https://duckduckgo.com/?q=%2BElring+%2B"302.890")  or CORTECO 49472900 | to be Confirmed!! |
+|Water pump|||| consider replacement with [electric water pump upgrade kit]()
