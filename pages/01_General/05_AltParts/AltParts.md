@@ -46,6 +46,7 @@ Disclaimer: **Use these alternative parts at your own risk!**
 |     | [Front 2](http://www.chaingangchainsandsprockets.com.au) \- the Chain Gang | not shown on their website, but they do have it. |
 |     | [Rear](http://www.chaingangchainsandsprockets.com.au) \- the Chain Gang | not shown on their website, but they do have it. |
 | Starter Motor | [Denso 128080-8630](https://duckduckgo.com/?q=%2BDenso+%2B128080-8630), also Denso 128000-8630 or Denso 1310000-T0301 or Denso 19243001A |  as fitted to 1996 to 2002 Triumph Trophy, Sprint, Daytona etc. | [Forum link](http://www.benelliforum.com/forum/general-benelli-discussion/12768-tnt-1130-problem.html#post122082) and [Forum link](https://www.benelliforum.com/forum/tnt/29281-tnt899_new-starter.html#post244651) |
+|| Sprag clutch | Kawasaki 13194-1096 | [French forum](https://www.benelliforumfrance.com/t6179-roue-libre-pour-tri-899-et-1130#105248) |
 | Valve | Valve Shims | [Shims](http://www.precisionshims.com.au)  Precision Shims Australia \- Ask Chris for 8.0mm flat shims | used by Engenia |
 | Valve | Valve shaft seal|[data sheet: Elring 302.890](https://web.tecalliance.net/elring/en/parts/10/302.890/detail?targetCountry=GB&articleCountry=GB)  [buying: Elring 302.890](https://duckduckgo.com/?q=%2BElring+%2B"302.890")  or CORTECO 49472900 | to be Confirmed!! |
 |Water pump|||| consider replacement with [electric water pump upgrade kit](https://maniac-parts.de/en/sonstiges/8483-elektrischer-wasserpumpen-kit.html)

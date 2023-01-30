@@ -1,3 +1,3 @@
 # Benelli Owners Club (BOC) - Knowledge Base
 
-[\\] # (![Tornado 900 Tre](/images/TornadoRedLHS.jpg))
+[Tornado 900 Tre](/public/images/TornadoRedLHS.jpg)
