@@ -6,8 +6,8 @@ Disclaimer: **Use these alternative parts at your own risk!**
 
 | Main  Component | Part | Source  | Verification  Status |
 | --- | --- | --- | --- |
-| Alternator | Cush Rubbers| Kawasaki 92075-1790 |[forum summary](http://www.engenia.com.au/09_Electrical/08_Alternator/Alternator.html) |
-|     |Stator / Generator | internals from various Denso generators will work   [forum summary](http://www.engenia.com.au/09_Electrical/08_Alternator/Alternator.html) |
+| Alternator | Cush Rubbers| Kawasaki 92075-1790 | [forum summary](http://www.engenia.com.au/09_Electrical/08_Alternator/Alternator.html) |
+|     |Stator / Generator | internals from various Denso generators will work | [forum summary](http://www.engenia.com.au/09_Electrical/08_Alternator/Alternator.html) |
 | [Battery](http://www.engenia.com.au/09_Electrical/04_Battery/Battery.html) |
 | Body | [Mirrors](http://www.engenia.com.au/04_Body/04_Mirrors/Mirrors.html#AltMirrors) |
 | Brake | Caliper Pins | [Brembo & KTM 61013018000](https://duckduckgo.com/?q=%2BBrembo+%2B61013018000) |
