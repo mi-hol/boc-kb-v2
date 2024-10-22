@@ -1,4 +1,4 @@
-{
+export default {
   "index": "Introduction"
   ,"BOC-KnowledgeBase": "Knowledge Base"
   ,"01_General": "General"

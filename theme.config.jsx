@@ -1,7 +1,5 @@
-import React from 'react'
-import { DocsThemeConfig } from 'nextra-theme-docs'
 
-const config: DocsThemeConfig = {
+export default {
   logo: <span>Benelli Owners Club - KnowledgeBase</span>,
   project: {
     link: 'https://github.com/mi-hol/boc-kb-v2',
@@ -16,5 +14,3 @@ const config: DocsThemeConfig = {
     </span>,
   },
 }
-
-export default config
