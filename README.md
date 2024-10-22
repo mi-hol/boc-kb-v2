@@ -1,4 +1,4 @@
-# Test for BOC KB based on Nextra Docs Template
+# Test for Benelli Owners Club(BOC) - KnowledgeBase(KB) based on Nextra Docs Template
 
 allow for editing of KB by any contributor and assure technical correctness by defined reviewers
 
