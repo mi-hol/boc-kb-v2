@@ -1,6 +1,6 @@
 export default {
-  "index": "Introduction"
-  ,"BOC-KnowledgeBase": "Knowledge Base"
+  index: "Introduction"
+  ,BOC_KnowledgeBase: "Knowledge Base"
   ,"01_General": "General"
   ,"03_Maintenance": "Maintenance"
   ,"05_Engine": "Engine"
