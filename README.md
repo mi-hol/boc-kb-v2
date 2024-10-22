@@ -12,7 +12,7 @@ This is a template for creating documentation with [Nextra](https://nextra.site)
 
 ## Local Development
 
-First, install npnm following [their instructions(https://pnpm.io/installation)
+First, install npnm following [their instructions](https://pnpm.io/installation)
 
-- run `pnpm i` to install the dependencies.
-- Then, run `pnpm dev` to start the development server and visit localhost:3000.
+- run `pnpm install` to install the dependencies.
+- Then, run `pnpm dev` to start the development server and visit [localhost:3000](http://localhost:3000).
