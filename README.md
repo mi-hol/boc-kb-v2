@@ -1,8 +1,11 @@
 # Test for Benelli Owners Club(BOC) - KnowledgeBase(KB) based on Nextra Docs Template
 
-allow for editing of KB by any contributor and assure technical correctness by defined reviewers
+allow for editing of KB by any contributor and assure technical correctness by defined reviewers.
 
-# Nextra Docs Template 
+To view the website visit [boc-kb-v2.vercel.app](boc-kb-v2.vercel.app)
+
+
+# Site is build using Nextra Docs Template 
 
 This is a template for creating documentation with [Nextra](https://nextra.site).
 
